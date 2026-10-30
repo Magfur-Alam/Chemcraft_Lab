@@ -186,10 +186,8 @@ if page == "🏠 Home":
                 set_molecule(name,smi); st.rerun()
     st.divider()
     st.markdown("### 👨‍🏫 Developed by")
-    st.markdown("**Dr. C. Manivannan**")
-    st.write("Assistant Professor")
-    st.write("Division of Chemistry, School of Sciences")
-    st.write("Faculty of Engineering and Technology")
+    st.markdown("MD. MAGFUR ALAM**")
+    st.write("Register No:RA2611026050161")
     st.write("SRM Institute of Science and Technology, Tiruchirappalli")
     st.caption("For academic queries, contact the faculty through official SRM channels.")
 
